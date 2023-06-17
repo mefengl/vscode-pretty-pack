@@ -1,4 +1,4 @@
-# Pretty VSCode Pack
+# VSCode Pretty Pack
 
 🎐 Subjective plugin selection to make VSCode more elegant.
 

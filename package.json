@@ -1,10 +1,10 @@
 {
-  "name": "vscode-pretty-vscode-pack",
-  "displayName": "Pretty VSCode Pack",
+  "name": "vscode-pretty-pack",
+  "displayName": "VSCode Pretty Pack",
   "description": "🎐 Subjective plugin selection to make VSCode more elegant.",
   "author": "mefengl",
   "publisher": "mefengl",
-  "repository": "https://github.com/mefengl/vscode-pretty-vscode-pack",
+  "repository": "https://github.com/mefengl/vscode-pretty-pack",
   "private": true,
   "license": "MIT",
   "version": "0.0.1",

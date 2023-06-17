@@ -1,0 +1,21 @@
+{
+  "name": "vscode-pretty-vscode-pack",
+  "displayName": "Pretty VSCode Pack",
+  "description": "🎐 Subjective plugin selection to make VSCode more elegant.",
+  "author": "mefengl",
+  "publisher": "mefengl",
+  "private": true,
+  "license": "MIT",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "antfu.file-nesting",
+    "EditorConfig.EditorConfig",
+    "PKief.material-icon-theme"
+  ]
+}

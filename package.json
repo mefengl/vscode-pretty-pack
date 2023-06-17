@@ -2,6 +2,7 @@
   "name": "vscode-pretty-pack",
   "displayName": "VSCode Pretty Pack",
   "description": "🎐 Subjective plugin selection to make VSCode more elegant.",
+  "icon": "res/icon.png",
   "author": "mefengl",
   "publisher": "mefengl",
   "repository": "https://github.com/mefengl/vscode-pretty-pack",
